@@ -1,3 +1,5 @@
+exemplo 1
+
 1 - nomes estranhos
 
 dist, d (variáveis)
@@ -13,7 +15,7 @@ renomear pastas
 
 22, 3.90, 2.9, 2.10, 0, 10
 
-  extrair constantes
+extrair constantes
 
 3 - comentários
 
@@ -67,3 +69,38 @@ extrair classe e mover o método com muitos parâmetros para ela
 
 extrair classe
 mover método
+
+exemplo 2
+
+1 - espaço em branco
+
+remove os espaços
+
+2 - comentários
+
+remover os comentários
+
+3 - ifs complexos
+
+consolidar condições
+introduzir cláusulas guarda
+substituir if por ternário
+extrair condições para funções ou variáveis explicativas
+
+4 - erro de indentação
+
+corrigir indentação
+
+5 - variáveis declaradas em conjunto
+
+desagrupar variáveis
+
+6 - variável declarada longe da sua utilização
+
+mover variáveis para o local mais adequado
+
+7 - algoritmo confuso
+
+substituir algoritmo
+
+8 - nomes estranhos
