@@ -21,7 +21,6 @@ O Bob Martin reforça que a ideia de clean architecture que o centro da aplicaç
   - Regras de negócios independentes e que podemos aplicar de diversas formas.
 - **Use Cases:**
   - Camada externa que orquestram o fluxo de dados para entidades (Entities).
-- 
 
 #### Artigos:
 
